@@ -1,0 +1,106 @@
+52 Week High/Low
+Accelerator Oscillator
+Accumulation/Distribution
+Accumulative Swing Index
+Advance/Decline
+Arnaud Legoux Moving Average
+Aroon
+Average Directional Index
+Average Price
+Average True Range
+Awesome Oscillator
+Balance of Power
+Bollinger Bands
+Bollinger Bands %B
+Bollinger Bands Width
+Chaikin Money Flow
+Chaikin Oscillator
+Chaikin Volatility
+Chande Kroll Stop
+Chande Momentum Oscillator
+Chop Zone
+Choppiness Index
+Commodity Channel Index
+Connors RSI
+Coppock Curve
+Correlation Coefficient
+Correlation - Log
+Detrended Price Oscillator
+Directional Movement
+Donchian Channels
+Double EMA
+Ease of Movement
+Elder's Force Index
+EMA Cross
+Envelopes
+Fisher Transform
+Guppy Multiple Moving Average
+Historical Volatility
+Hull Moving Average
+Ichimoku Cloud
+Keltner Channels
+Klinger Oscillator
+Know Sure Thing
+Least Squares Moving Average
+Linear Regression Curve
+Linear Regression Slope
+MA Cross
+MA with EMA Cross
+Mass Index
+McGinley Dynamic
+Median Price
+Momentum
+Money Flow Index
+Moving Average
+Moving Average Channel
+MACD
+Moving Average Exponential
+Moving Average Weighted
+Moving Average Double
+Moving Average Triple
+Moving Average Adaptive
+Moving Average Hamming
+Moving Average Multiple
+Majority Rule
+Net Volume
+On Balance Volume
+Parabolic SAR
+Pivot Points Standard
+Price Channel
+Price Oscillator
+Price Volume Trend
+Rate Of Change
+Ratio
+Relative Strength Index
+Relative Vigor Index
+Relative Volatility Index
+Standard Error
+Standard Error Bands
+SMI Ergodic Indicator/Oscillator
+Smoothed Moving Average
+Standard Deviation
+Stochastic
+Stochastic RSI
+SuperTrend
+Spread
+TRIX
+Triple EMA
+True Strength Indicator
+Trend Strength Index
+Typical Price
+Ultimate Oscillator
+Volatility Close-to-Close
+Volatility Zero Trend Close-to-Close
+Volatility O-H-L-C
+Volatility Index
+VWAP
+VWMA
+Volume Oscillator
+Volume Profile Fixed Range
+Volume Profile Visible Range
+Vortex Indicator
+Volume
+Williams %R
+Williams Alligator
+Williams Fractal
+ZigZag
